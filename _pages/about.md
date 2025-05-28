@@ -32,9 +32,9 @@ Shishun Tian is currently an Associate Professor at the College of Electronics a
 
 - **Shishun Tian**, Tiantian Zeng, Zhengyu Zhang, Wenbin Zou, Xia Li, Dual Residual-Guided Interactive Learning for the Quality Assessment of Enhanced Images, **IEEE Transactions on Multimedia**, 2025. ([PDF](https://ieeexplore.ieee.org/abstract/document/10857451), [Code](https://github.com/ShishunTian/DRGQA-TMM2025))
 
+- Zhengyu Zhang, **Shishun Tian<sup>\*</sup>**, Jinjia Zhou, Luce Morin, Lu Zhang, A New Benchmark Database and Objective Metric for Light Field Image Quality Evaluation, **IEEE Transactions on Circuits and Systems for Video Technology**, 2025. ([PDF](https://ieeexplore.ieee.org/abstract/document/10735251))
+- 
 - Tianwei Zhou, Songbai Tan, Gang Li<sup>\*</sup>, **Shishun Tian<sup>\*</sup>**, Chang Tang, Zhihua Wang, Guanghui Yue<sup>\*</sup>, Retouched Face Image Quality Assessment Based on Differential Perception and Textual Prompt, **IEEE Transactions on Broadcasting**, 2025. ([PDF](https://ieeexplore.ieee.org/abstract/document/10663283))
-
-- Zhengyu Zhang, **Shishun Tian<sup>\*</sup>**, Jinjia Zhou, Luce Morin, Lu Zhang, A New Benchmark Database and Objective Metric for Light Field Image Quality Evaluation, **IEEE Transactions on Circuits and Systems for Video Technology**, 2024. ([PDF](https://ieeexplore.ieee.org/abstract/document/10735251))
 <!-- - Muxin Liao, **Shishun Tian<sup>\#</sup>**, Yuhang Zhang, Guoguang Hua, Wenbin Zou, Xia Li, Considering representation diversity and prediction consistency for domain generalization semantic segmentation, **Knowledge-Based Systems**, 2024. ([PDF](https://www.sciencedirect.com/science/article/abs/pii/S0950705124012838)) -->
 
 - Muxin Liao, **Shishun Tian<sup>\#</sup>**, Binbin Wei, Yuhang Zhang, Wenbin Zou, Xia Li, Class-Balanced Sampling and Discriminative Stylization for Domain Generalization Semantic Segmentation, **IEEE Transactions on Intelligent Transportation Systems**, 2024. ([PDF](https://ieeexplore.ieee.org/abstract/document/10759330))
