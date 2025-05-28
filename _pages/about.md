@@ -22,9 +22,6 @@ Shishun Tian is currently an Associate Professor at the College of Electronics a
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 - Multi-Level Guided Discrepancy Learning for Source-Free Object Detection in Hazy Conditions, **IEEE Transactions on Intelligent Transportation Systems**, 2025. ([PDF](https://ieeexplore.ieee.org/abstract/document/10972168),[Code](https://github.com/ShishunTian/MGDL-TITS2025))
 
 **Shishun Tian**, Yifan Wang, Tiantian Zeng, Wenbin Zou
