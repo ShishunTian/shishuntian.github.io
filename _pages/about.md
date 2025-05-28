@@ -42,8 +42,8 @@ Shishun Tian is currently an Associate Professor at the College of Electronics a
 - Muxin Liao, **Shishun Tian<sup>\#</sup>**, Yuhang Zhang, Guoguang Hua, Wenbin Zou, Xia Li, Calibration-based multi-prototype contrastive learning for domain generalization semantic segmentation in traffic scenes, **IEEE Transactions on Intelligent Transportation Systems**, 2024. ([PDF](https://ieeexplore.ieee.org/abstract/document/10682463))
 
 - Muxin Liao, **Shishun Tian<sup>\#</sup>**, Yuhang Zhang, Guoguang Hua, Wenbin Zou, Xia Li, Preserving label-related domain-specific information for cross-domain semantic segmentation, **IEEE Transactions on Intelligent Transportation Systems**, 2024. ([PDF](https://ieeexplore.ieee.org/abstract/document/10507736))
-
 <!-- - Muxin Liao, **Shishun Tian<sup>\#</sup>**, Yuhang Zhang, Guoguang Hua, Wenbin Zou, Xia Li, PDA: Progressive domain adaptation for semantic segmentation, **Knowledge-Based Systems**, 2024. ([PDF](https://www.sciencedirect.com/science/article/abs/pii/S0950705123009292)) -->
+
 - Zhengyu Zhang, **Shishun Tian<sup>\*</sup>**, Yuhang Zhang, Wenbin Zou, Luce Morin, Lu Zhang, Blind perceptual quality assessment of LFI based on angular-spatial effect modeling, **IEEE Transactions on Broadcasting**, 2024. ([PDF](https://ieeexplore.ieee.org/abstract/document/10242029))
 
 - Zhengyu Zhang, **Shishun Tian<sup>\*</sup>**, Wenbin Zou, Luce Morin, Lu Zhang, EDDMF: An efficient deep discrepancy measuring framework for full-reference light field image quality assessment, **IEEE Transactions on Image Processing**, 2023. ([PDF](https://ieeexplore.ieee.org/abstract/document/10319396))
