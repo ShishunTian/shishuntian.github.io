@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shishun Tian"
-description              : "Associate Professor at the College of Electronics and Information Engineering, Shenzhen University. "
+description              : "College of Electronics and Information Engineering, Shenzhen University. "
 repository               : "Shishuntian/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Shishin Tian"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "College of Electronics and Information Engineering, Shenzhen University"
+  avatar           : "images/tianshishun.jpg"
+  bio              : "Ph.D. Associate Professor"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
