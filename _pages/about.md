@@ -21,13 +21,16 @@ Shishun Tian is currently an Associate Professor at the College of Electronics a
 
 
 # 📝 Publications 
-## Journal
+## Journal:
 
 - **Shishun Tian**, Yifan Wang, Tiantian Zeng, Wenbin Zou, Multi-Level Guided Discrepancy Learning for Source-Free Object Detection in Hazy Conditions, **IEEE Transactions on Intelligent Transportation Systems**, 2025. ([PDF](https://ieeexplore.ieee.org/abstract/document/10972168),[Code](https://github.com/ShishunTian/MGDL-TITS2025))
 
 - **Shishun Tian**, Tiantian Zeng, Zhengyu Zhang, Wenbin Zou, Xia Li, Dual Residual-Guided Interactive Learning for the Quality Assessment of Enhanced Images, **IEEE Transactions on Multimedia**, 2025. ([PDF](https://ieeexplore.ieee.org/abstract/document/10857451),[Code](https://github.com/ShishunTian/DRGQA-TMM2025))
 
-## Conference
+- Zhengyu Zhang, **Shishun Tian<sub>*</sub>**, Jinjia Zhou, Luce Morin, Lu Zhang, A New Benchmark Database and Objective Metric for Light Field Image Quality Evaluation, **IEEE Transactions on Circuits and Systems for Video Technology**, 2024. ([PDF](https://ieeexplore.ieee.org/abstract/document/10735251))
+
+
+## Conference:
 
 
 
