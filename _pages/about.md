@@ -29,7 +29,6 @@ Shishun Tian is currently an Associate Professor at the College of Electronics a
 - Dual Residual-Guided Interactive Learning for the Quality Assessment of Enhanced Images, **IEEE Transactions on Multimedia**, 2025. ([PDF](https://ieeexplore.ieee.org/abstract/document/10857451),[Code](https://github.com/ShishunTian/DRGQA-TMM2025))
 
 **Shishun Tian**, Yifan Wang, Tiantian Zeng, Wenbin Zou
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 
 # 📖 Educations
