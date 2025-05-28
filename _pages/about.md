@@ -60,7 +60,7 @@ Shishun Tian is currently an Associate Professor at the College of Electronics a
 
 - **Shishun Tian**, Lu Zhang, Luce Morin, Olivier Déforges, A Benchmark of DIBR Synthesized View Quality Assessment Metrics on a New Database for Immersive Media Applications, **IEEE Transactions on Multimedia**, 2019. ([PDF](https://ieeexplore.ieee.org/abstract/document/8490718), [Dataset](https://vaader-data.insa-rennes.fr/data/stian/ieeetom/IETR_DIBR_Database.zip))
 
-- **Shishun Tian**, Lu Zhang, Luce Morin, Olivier Déforges, NIQSV+: A No-Reference Synthesized View Quality Assessment Metric, **IEEE Journal of Selected Topics in Signal Processing**, 2018. ([PDF](https://ieeexplore.ieee.org/abstract/document/8170274), [Code](https://vaader-data.insa-rennes.fr/data/stian/ieeetom/Code_NIQSV+.zip))
+- **Shishun Tian**, Lu Zhang, Luce Morin, Olivier Déforges, NIQSV+: A No-Reference Synthesized View Quality Assessment Metric, **IEEE Transactions on Image Processing**, 2018. ([PDF](https://ieeexplore.ieee.org/abstract/document/8170274), [Code](https://vaader-data.insa-rennes.fr/data/stian/ieeetom/Code_NIQSV+.zip))
 
 
 
