@@ -32,7 +32,7 @@ Dr. Shishun Tian is currently an Associate Professor at the College of Electroni
 
 - **Shishun Tian**, Tiantian Zeng, Zhengyu Zhang, Wenbin Zou, Xia Li, Dual Residual-Guided Interactive Learning for the Quality Assessment of Enhanced Images, **IEEE Transactions on Multimedia**, 2025. ([PDF](https://ieeexplore.ieee.org/abstract/document/10857451), [Code](https://github.com/ShishunTian/DRGQA-TMM2025))
 
-- Zhengyu Zhang, **Shishun Tian<sup>\*</sup>**, Jinjia Zhou, Luce Morin, Lu Zhang, A New Benchmark Database and Objective Metric for Light Field Image Quality Evaluation, **IEEE Transactions on Circuits and Systems for Video Technology**, 2025. ([PDF](https://ieeexplore.ieee.org/abstract/document/10735251))
+- Zhengyu Zhang, **Shishun Tian<sup>\*</sup>**, Jinjia Zhou, Luce Morin, Lu Zhang, A New Benchmark Database and Objective Metric for Light Field Image Quality Evaluation, **IEEE Transactions on Circuits and Systems for Video Technology**, 2025. ([PDF](https://ieeexplore.ieee.org/abstract/document/10735251), [Code](https://github.com/ZhengyuZhang96/IETR-LFI))
 
 - Tianwei Zhou, Songbai Tan, Gang Li<sup>\*</sup>, **Shishun Tian<sup>\*</sup>**, Chang Tang, Zhihua Wang, Guanghui Yue<sup>\*</sup>, Retouched Face Image Quality Assessment Based on Differential Perception and Textual Prompt, **IEEE Transactions on Broadcasting**, 2025. ([PDF](https://ieeexplore.ieee.org/abstract/document/10663283))
 <!-- - Muxin Liao, **Shishun Tian<sup>\#</sup>**, Yuhang Zhang, Guoguang Hua, Wenbin Zou, Xia Li, Considering representation diversity and prediction consistency for domain generalization semantic segmentation, **Knowledge-Based Systems**, 2024. ([PDF](https://www.sciencedirect.com/science/article/abs/pii/S0950705124012838)) -->
@@ -48,7 +48,7 @@ Dr. Shishun Tian is currently an Associate Professor at the College of Electroni
 
 - Zhengyu Zhang, **Shishun Tian<sup>\*</sup>**, Wenbin Zou, Luce Morin, Lu Zhang, EDDMF: An efficient deep discrepancy measuring framework for full-reference light field image quality assessment, **IEEE Transactions on Image Processing**, 2023. ([PDF](https://ieeexplore.ieee.org/abstract/document/10319396))
 
-- Zhengyu Zhang, **Shishun Tian<sup>\*</sup>**, Wenbin Zou, Luce Morin, Lu Zhang, PVBLiF: A Pseudo Video-Based Blind Quality Assessment Metric for Light Field Image, **IEEE Journal of Selected Topics in Signal Processing**, 2023. ([PDF](https://ieeexplore.ieee.org/abstract/document/10130290))
+- Zhengyu Zhang, **Shishun Tian<sup>\*</sup>**, Wenbin Zou, Luce Morin, Lu Zhang, PVBLiF: A Pseudo Video-Based Blind Quality Assessment Metric for Light Field Image, **IEEE Journal of Selected Topics in Signal Processing**, 2023. ([PDF](https://ieeexplore.ieee.org/abstract/document/10130290), [Code](https://github.com/ZhengyuZhang96/PVBLiF))
 
 - Wenbin Zou, Guoguang Hua, Yue Zhuang, **Shishun Tian<sup>\*</sup>**, Real-Time Passable Area Segmentation With Consumer RGB-D Cameras for the Visually Impaired, **IEEE Transactions on Instrumentation and Measurement**, 2023. ([PDF](https://ieeexplore.ieee.org/abstract/document/10114419))
 
@@ -70,11 +70,11 @@ Dr. Shishun Tian is currently an Associate Professor at the College of Electroni
 
 - Tiantian Zeng, Lu Zhang, Wenbin Zou, Xia Li, **Shishun Tian<sup>\*</sup>**, TRG-DQA: Texture Residual-Guided Dehazed Image Quality Assessment, **IEEE International Conference on Image Processing (ICIP)**, 2023. ([PDF](https://ieeexplore.ieee.org/abstract/document/10222233/citations?tabFilter=papers#citations), [Code](https://github.com/ShishunTian/TRG-DQA-ICIP2023))
 
-- Zhengyu Zhang, **Shishun Tian<sup>\*</sup>**, Wenbin Zou, Yuhang Zhang, Luce Morin, Lu Zhang, Blind Quality Assessment of Light Field Image Based on Spatio-Angular Textural Variation, **IEEE International Conference on Image Processing (ICIP)**, 2023. ([PDF](https://ieeexplore.ieee.org/abstract/document/10222216))
+- Zhengyu Zhang, **Shishun Tian<sup>\*</sup>**, Wenbin Zou, Yuhang Zhang, Luce Morin, Lu Zhang, Blind Quality Assessment of Light Field Image Based on Spatio-Angular Textural Variation, **IEEE International Conference on Image Processing (ICIP)**, 2023. ([PDF](https://ieeexplore.ieee.org/abstract/document/10222216), [Code](https://github.com/ZhengyuZhang96/SATV-BLiF))
 
 - Wenbin Zou, Guoguang Hua, Guangxu Chen, Zaiyue He, Guangli Liu, Pengfei Chen, Yuyang Li, Huakun Li, Lei Zheng, **Shishun Tian<sup>\*</sup>**, Need a dog for seeing eye? A walk viewpoint dataset for freespace detection in unstructured environments, **IEEE International Conference on Multimedia and Expo (ICME)**, 2023. ([PDF](https://ieeexplore.ieee.org/abstract/document/10219648), [Dataset](https://github.com/SensingAI/WVD-SZU))
 
-- Zhengyu Zhang, **Shishun Tian<sup>\*</sup>**, Wenbin Zou, Luce Morin, Lu Zhang, Deeblif: Deep Blind Light Field Image Quality Assessment by Extracting Angular and Spatial Information, **IEEE International Conference on Image Processing (ICIP)**, 2022. ([PDF](https://ieeexplore.ieee.org/abstract/document/9897951))
+- Zhengyu Zhang, **Shishun Tian<sup>\*</sup>**, Wenbin Zou, Luce Morin, Lu Zhang, Deeblif: Deep Blind Light Field Image Quality Assessment by Extracting Angular and Spatial Information, **IEEE International Conference on Image Processing (ICIP)**, 2022. ([PDF](https://ieeexplore.ieee.org/abstract/document/9897951), [Code](https://github.com/ZhengyuZhang96/DeeBLiF))
 
 - **Shishun Tian**, Lu Zhang, Luce Morin, Olivier Déforges, SC-IQA: Shift compensation based image quality assessment for DIBR-synthesized views, **IEEE Visual Communications and Image Processing (VCIP)**, 2018. ([PDF](https://ieeexplore.ieee.org/abstract/document/8698654))
 
