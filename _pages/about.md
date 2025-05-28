@@ -52,6 +52,11 @@ Shishun Tian is currently an Associate Professor at the College of Electronics a
 
 - Wenbin Zou, Guoguang Hua, Yue Zhuang, **Shishun Tian<sup>\*</sup>**, Real-Time Passable Area Segmentation With Consumer RGB-D Cameras for the Visually Impaired, **IEEE Transactions on Instrumentation and Measurement**, 2023. ([PDF](https://ieeexplore.ieee.org/abstract/document/10114419))
 
+- **Shishun Tian**, Minghuo Zheng, Wenbin Zou, Xia Li, Lu Zhang, Dynamic crosswalk scene understanding for the visually impaired, **IEEE Transactions on Neural Systems and Rehabilitation Engineering**, 2021. ([PDF](https://ieeexplore.ieee.org/abstract/document/9481094), [Dataset](https://www.sensingai.com.cn/TNSRE.html))
+
+- Wenbin Zou, Zhengyu Zhang, Yingqing Peng, Canqun Xiang, **Shishun Tian<sup>\*</sup>**, Lu Zhang, SC-RPN: A strong correlation learning framework for region proposal, **IEEE Transactions on Image Processing**, 2021. ([PDF](https://ieeexplore.ieee.org/abstract/document/9395395))
+
+- Wenbin Zou, Di Wu, **Shishun Tian<sup>\*</sup>**, Canqun Xiang, Xia Li, Lu Zhang, End-to-end 6DoF pose estimation from monocular RGB images, **IEEE Transactions on Consumer Electronics**, 2021. ([PDF](https://ieeexplore.ieee.org/abstract/document/9347540))
 
 
 
