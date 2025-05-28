@@ -36,7 +36,7 @@ Shishun Tian is currently an Associate Professor at the College of Electronics a
 
 - Zhengyu Zhang, **Shishun Tian<sup>\*</sup>**, Jinjia Zhou, Luce Morin, Lu Zhang, A New Benchmark Database and Objective Metric for Light Field Image Quality Evaluation, **IEEE Transactions on Circuits and Systems for Video Technology**, 2024. ([PDF](https://ieeexplore.ieee.org/abstract/document/10735251))
 
-{% - Muxin Liao, **Shishun Tian<sup>\#</sup>**, Yuhang Zhang, Guoguang Hua, Wenbin Zou, Xia Li, Considering representation diversity and prediction consistency for domain generalization semantic segmentation, **Knowledge-Based Systems**, 2024. ([PDF](https://www.sciencedirect.com/science/article/abs/pii/S0950705124012838))%}
+{% - Muxin Liao, **Shishun Tian<sup>\#</sup>**, Yuhang Zhang, Guoguang Hua, Wenbin Zou, Xia Li, Considering representation diversity and prediction consistency for domain generalization semantic segmentation, **Knowledge-Based Systems**, 2024. ([PDF](https://www.sciencedirect.com/science/article/abs/pii/S0950705124012838)) %}
 
 - Muxin Liao, **Shishun Tian<sup>\#</sup>**, Binbin Wei, Yuhang Zhang, Wenbin Zou, Xia Li, Class-Balanced Sampling and Discriminative Stylization for Domain Generalization Semantic Segmentation, **IEEE Transactions on Intelligent Transportation Systems**, 2024. ([PDF](https://ieeexplore.ieee.org/abstract/document/10759330))
 
@@ -44,7 +44,7 @@ Shishun Tian is currently an Associate Professor at the College of Electronics a
 
 - Muxin Liao, **Shishun Tian<sup>\#</sup>**, Yuhang Zhang, Guoguang Hua, Wenbin Zou, Xia Li, Preserving label-related domain-specific information for cross-domain semantic segmentation, **IEEE Transactions on Intelligent Transportation Systems**, 2024. ([PDF](https://ieeexplore.ieee.org/abstract/document/10507736))
 
-{% - Muxin Liao, **Shishun Tian<sup>\#</sup>**, Yuhang Zhang, Guoguang Hua, Wenbin Zou, Xia Li, PDA: Progressive domain adaptation for semantic segmentation, **Knowledge-Based Systems**, 2024. ([PDF](https://www.sciencedirect.com/science/article/abs/pii/S0950705123009292))&}
+{% - Muxin Liao, **Shishun Tian<sup>\#</sup>**, Yuhang Zhang, Guoguang Hua, Wenbin Zou, Xia Li, PDA: Progressive domain adaptation for semantic segmentation, **Knowledge-Based Systems**, 2024. ([PDF](https://www.sciencedirect.com/science/article/abs/pii/S0950705123009292)) %}
 
 - Zhengyu Zhang, **Shishun Tian<sup>\*</sup>**, Yuhang Zhang, Wenbin Zou, Luce Morin, Lu Zhang, Blind perceptual quality assessment of LFI based on angular-spatial effect modeling, **IEEE Transactions on Broadcasting**, 2024. ([PDF](https://ieeexplore.ieee.org/abstract/document/10242029))
 
