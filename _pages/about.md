@@ -66,7 +66,7 @@ Shishun Tian is currently an Associate Professor at the College of Electronics a
 
 ## Conference:
 
-- Muxin Liao, **Shishun Tian<sup>\#</sup>**, Yuhang Zhang, Guoguang Hua, Wenbin Zou, Xia Li, Calibration-based dual prototypical contrastive learning approach for domain generalization semantic segmentation, **ACM International Conference on Multimedia**, 2023. ([PDF](https://dl.acm.org/doi/abs/10.1145/3581783.3611792))
+- Muxin Liao, **Shishun Tian<sup>\#</sup>**, Yuhang Zhang, Guoguang Hua, Wenbin Zou, Xia Li, Calibration-based dual prototypical contrastive learning approach for domain generalization semantic segmentation, **ACM International Conference on Multimedia**, 2023. ([PDF](https://dl.acm.org/doi/abs/10.1145/3581783.3611792), [Code](https://github.com/seabearlmx/CDPCL))
 
 - Tiantian Zeng, Lu Zhang, Wenbin Zou, Xia Li, **Shishun Tian<sup>\*</sup>**, TRG-DQA: Texture Residual-Guided Dehazed Image Quality Assessment, **IEEE International Conference on Image Processing (ICIP)**, 2023. ([PDF](https://ieeexplore.ieee.org/abstract/document/10222233/citations?tabFilter=papers#citations), [Code](https://github.com/ShishunTian/TRG-DQA-ICIP2023))
 
