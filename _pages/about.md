@@ -25,7 +25,7 @@ Shishun Tian is currently an Associate Professor at the College of Electronics a
 - *2008 - 2012*, Sichuan University, Chengdu, China.
 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 ## Journal:
 
 - **Shishun Tian**, Yifan Wang, Tiantian Zeng, Wenbin Zou, Multi-Level Guided Discrepancy Learning for Source-Free Object Detection in Hazy Conditions, **IEEE Transactions on Intelligent Transportation Systems**, 2025. ([PDF](https://ieeexplore.ieee.org/abstract/document/10972168), [Code](https://github.com/ShishunTian/MGDL-TITS2025))
