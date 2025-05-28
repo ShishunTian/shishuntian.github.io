@@ -58,6 +58,9 @@ Shishun Tian is currently an Associate Professor at the College of Electronics a
 
 - Wenbin Zou, Di Wu, **Shishun Tian<sup>\*</sup>**, Canqun Xiang, Xia Li, Lu Zhang, End-to-end 6DoF pose estimation from monocular RGB images, **IEEE Transactions on Consumer Electronics**, 2021. ([PDF](https://ieeexplore.ieee.org/abstract/document/9347540))
 
+- **Shishun Tian**, Lu Zhang, Luce Morin, Olivier Déforges, A Benchmark of DIBR Synthesized View Quality Assessment Metrics on a New Database for Immersive Media Applications, **IEEE Transactions on Multimedia**, 2019. ([PDF](https://ieeexplore.ieee.org/abstract/document/8490718), [Dataset](https://vaader-data.insa-rennes.fr/data/stian/ieeetom/IETR_DIBR_Database.zip))
+
+- **Shishun Tian**, Lu Zhang, Luce Morin, Olivier Déforges, NIQSV+: A No-Reference Synthesized View Quality Assessment Metric, **IEEE Journal of Selected Topics in Signal Processing**, 2018. ([PDF](https://ieeexplore.ieee.org/abstract/document/8170274), [Code](https://vaader-data.insa-rennes.fr/data/stian/ieeetom/Code_NIQSV+.zip))
 
 
 
@@ -73,4 +76,6 @@ Shishun Tian is currently an Associate Professor at the College of Electronics a
 
 - Zhengyu Zhang, **Shishun Tian<sup>\*</sup>**, Wenbin Zou, Luce Morin, Lu Zhang, Deeblif: Deep Blind Light Field Image Quality Assessment by Extracting Angular and Spatial Information, **IEEE International Conference on Image Processing (ICIP)**, 2022. ([PDF](https://ieeexplore.ieee.org/abstract/document/9897951))
 
+- **Shishun Tian**, Lu Zhang, Luce Morin, Olivier Déforges, NIQSV: A no reference image quality assessment metric for 3D synthesized views, **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, 2017. ([PDF](https://ieeexplore.ieee.org/abstract/document/7952356), [Code](https://vaader-data.insa-rennes.fr/data/stian/ieeetom/Code_NIQSV+.zip))
 
+- **Shishun Tian**, Lu Zhang, Luce Morin, Olivier Déforges, SC-IQA: Shift compensation based image quality assessment for DIBR-synthesized views, **IEEE Visual Communications and Image Processing (VCIP)**, 2018. ([PDF](https://ieeexplore.ieee.org/abstract/document/8698654))
