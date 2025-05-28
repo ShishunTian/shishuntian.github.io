@@ -76,6 +76,6 @@ Shishun Tian is currently an Associate Professor at the College of Electronics a
 
 - Zhengyu Zhang, **Shishun Tian<sup>\*</sup>**, Wenbin Zou, Luce Morin, Lu Zhang, Deeblif: Deep Blind Light Field Image Quality Assessment by Extracting Angular and Spatial Information, **IEEE International Conference on Image Processing (ICIP)**, 2022. ([PDF](https://ieeexplore.ieee.org/abstract/document/9897951))
 
-- **Shishun Tian**, Lu Zhang, Luce Morin, Olivier Déforges, NIQSV: A no reference image quality assessment metric for 3D synthesized views, **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, 2017. ([PDF](https://ieeexplore.ieee.org/abstract/document/7952356), [Code](https://vaader-data.insa-rennes.fr/data/stian/ieeetom/Code_NIQSV+.zip))
-
 - **Shishun Tian**, Lu Zhang, Luce Morin, Olivier Déforges, SC-IQA: Shift compensation based image quality assessment for DIBR-synthesized views, **IEEE Visual Communications and Image Processing (VCIP)**, 2018. ([PDF](https://ieeexplore.ieee.org/abstract/document/8698654))
+
+- **Shishun Tian**, Lu Zhang, Luce Morin, Olivier Déforges, NIQSV: A no reference image quality assessment metric for 3D synthesized views, **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, 2017. ([PDF](https://ieeexplore.ieee.org/abstract/document/7952356), [Code](https://vaader-data.insa-rennes.fr/data/stian/ieeetom/Code_NIQSV+.zip))
