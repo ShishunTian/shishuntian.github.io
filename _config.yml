@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shishun Tian"
-description              : "College of Electronics and Information Engineering, Shenzhen University. "
+description              : #"College of Electronics and Information Engineering, Shenzhen University. "
 repository               : "Shishuntian/shishuntian.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,8 +24,8 @@ author:
   name             : "Shishin Tian"
   avatar           : "images/tianshishun.jpg"
   bio              : "Ph.D. Associate Professor"
-  location         : "Shenzhen, China"
   employer         : "Shenzhen University"
+  location         : "Shenzhen, China"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=gk8puWMAAAAJ&hl=zh-CN"
   email            : "stian@szu.edu.cn"
