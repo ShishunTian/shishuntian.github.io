@@ -85,5 +85,5 @@ Dr. Shishun Tian is currently an Associate Professor at the College of Electroni
 
 - Machine Learning (2025 Spring, 2024 Spring, 2023 Spring, 2022 Spring)
 - Artificial Intelligence and Machine Learning (2024 Fall)
-- Computer Vision (2022Fall, 2021 Spring, 2020 Spring)
+- Computer Vision (2022 Fall, 2021 Spring, 2020 Spring)
 - Digital Image Processing (2025 Spring, 2024 Spring, 2023 Spring, 2022 Spring, 2021 Spring, 2020 Spring)
