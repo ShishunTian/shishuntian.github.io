@@ -81,7 +81,7 @@ Dr. Shishun Tian is currently an Associate Professor at the College of Electroni
 - **Shishun Tian**, Lu Zhang, Luce Morin, Olivier Déforges, NIQSV: A no reference image quality assessment metric for 3D synthesized views, **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, 2017. ([PDF](https://ieeexplore.ieee.org/abstract/document/7952356), [Code](https://vaader-data.insa-rennes.fr/data/stian/ieeetom/Code_NIQSV+.zip))
 
 
-# 🏫 Teaching
+# 🧑‍🏫 Teaching
 
 - Machine Learning (2025 Spring, 2024 Spring, 2023 Spring, 2022 Spring)
 - Artificial Intelligence and Machine Learning (2024 Fall)
