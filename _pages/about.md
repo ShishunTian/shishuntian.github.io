@@ -79,3 +79,6 @@ Dr. Shishun Tian is currently an Associate Professor at the College of Electroni
 - **Shishun Tian**, Lu Zhang, Luce Morin, Olivier Déforges, SC-IQA: Shift compensation based image quality assessment for DIBR-synthesized views, **IEEE Visual Communications and Image Processing (VCIP)**, 2018. ([PDF](https://ieeexplore.ieee.org/abstract/document/8698654))
 
 - **Shishun Tian**, Lu Zhang, Luce Morin, Olivier Déforges, NIQSV: A no reference image quality assessment metric for 3D synthesized views, **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, 2017. ([PDF](https://ieeexplore.ieee.org/abstract/document/7952356), [Code](https://vaader-data.insa-rennes.fr/data/stian/ieeetom/Code_NIQSV+.zip))
+
+
+# ![img_teaching](../images/presentation.png = 100*200)Teaching
