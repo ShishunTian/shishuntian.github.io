@@ -25,7 +25,7 @@ author:
   avatar           : "images/tianshishun.jpg"
   bio              : "Ph.D. Associate Professor"
   employer         : "Shenzhen University"
-  location         : "Shenzhen, China"
+  location         : # "Shenzhen, China"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=gk8puWMAAAAJ&hl=zh-CN"
   email            : "stian@szu.edu.cn"
