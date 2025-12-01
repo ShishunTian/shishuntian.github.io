@@ -28,7 +28,7 @@ Dr. Shishun Tian is currently an Associate Professor at the College of Electroni
 # 📝 Selected Publications 
 ## Journal:
 
-- Zhengyu Zhang; **Shishun Tian**; Jianjun Xiang; Wenbin Zou; Luce Morin; Lu Zhang, Blind Light Field Image Quality Assessment Using Multiplane Texture and Multilevel Wavelet Information, **IEEE Transactions on Broadcasting**, 2025. ([PDF](https://ieeexplore.ieee.org/document/11231044), [Code](https://github.com/ZhengyuZhang96/MPT-MWI-BLiF))
+- Zhengyu Zhang; **Shishun Tian<sup>\*</sup>**; Jianjun Xiang; Wenbin Zou; Luce Morin; Lu Zhang, Blind Light Field Image Quality Assessment Using Multiplane Texture and Multilevel Wavelet Information, **IEEE Transactions on Broadcasting**, 2025. ([PDF](https://ieeexplore.ieee.org/document/11231044), [Code](https://github.com/ZhengyuZhang96/MPT-MWI-BLiF))
 
 - **Shishun Tian**, Yifan Wang, Tiantian Zeng, Wenbin Zou, Multi-Level Guided Discrepancy Learning for Source-Free Object Detection in Hazy Conditions, **IEEE Transactions on Intelligent Transportation Systems**, 2025. ([PDF](https://ieeexplore.ieee.org/abstract/document/10972168), [Code](https://github.com/ShishunTian/MGDL-TITS2025))
 
