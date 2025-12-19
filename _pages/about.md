@@ -73,9 +73,9 @@ Dr. Shishun Tian is currently an Associate Professor at the College of Electroni
 ## Conference:
 - **Shishun Tian**, Fangjie Hou, Guanghui Yue, Yuanhao Gong, Wenbin Zou, Ting Su, Prior-Guided Test Time Adaptation for Blind Image Quality Assessment, **_IEEE International Conference on Multimedia and Expo (ICME)_**, 2025. **Oral (Top 15%)**
 
-- **Shishun Tian**, Zhiwei Lan, Zhengyu Zhang, Ting Su, Xia Li, Lu Zhang, Semantic-Guided Residual Learning for the Quality Assessment of Enhanced Images, **_IEEE International Conference on Multimedia and Expo (ICME)**, 2025. **Oral (Top 15%)**
+- **Shishun Tian**, Zhiwei Lan, Zhengyu Zhang, Ting Su, Xia Li, Lu Zhang, Semantic-Guided Residual Learning for the Quality Assessment of Enhanced Images, **_IEEE International Conference on Multimedia and Expo (ICME)_**, 2025. **Oral (Top 15%)**
 
-- Muxin Liao, **Shishun Tian<sup>\#</sup>**, Yuhang Zhang, Guoguang Hua, Wenbin Zou, Xia Li, Calibration-based dual prototypical contrastive learning approach for domain generalization semantic segmentation, **ACM International Conference on Multimedia_**, 2023. ([PDF](https://dl.acm.org/doi/abs/10.1145/3581783.3611792), [Code](https://github.com/seabearlmx/CDPCL))
+- Muxin Liao, **Shishun Tian<sup>\#</sup>**, Yuhang Zhang, Guoguang Hua, Wenbin Zou, Xia Li, Calibration-based dual prototypical contrastive learning approach for domain generalization semantic segmentation, **_ACM International Conference on Multimedia_**, 2023. ([PDF](https://dl.acm.org/doi/abs/10.1145/3581783.3611792), [Code](https://github.com/seabearlmx/CDPCL))
 
 - Tiantian Zeng, Lu Zhang, Wenbin Zou, Xia Li, **Shishun Tian<sup>\*</sup>**, TRG-DQA: Texture Residual-Guided Dehazed Image Quality Assessment, **_IEEE International Conference on Image Processing (ICIP)_**, 2023. ([PDF](https://ieeexplore.ieee.org/abstract/document/10222233/citations?tabFilter=papers#citations), [Code](https://github.com/ShishunTian/TRG-DQA-ICIP2023))
 
