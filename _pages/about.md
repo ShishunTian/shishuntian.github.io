@@ -30,7 +30,7 @@ Dr. Shishun Tian is currently an Associate Professor at the College of Electroni
 
 - Ting Su, Lingze Huang, Wenbin Zou, Guanghui Yue, and **Shishun Tian<sup>\*</sup>**, Weakly-Correlated Knowledge Distillation for Blind Image Quality Assessment, **_IEEE Transactions on Multimedia_**, 2026. (Paer and code: coming soon...)
 
-- **Shishun Tian**, Yonghong Zheng, Guanghui Yue, Weisi Lin, Patrick Le Callet, Rethinking Objective Image Quality Assessment with Federated Learning, **_IEEE Transactions on Circuits and Systems for Video Technology_**, 2026. ([PDF](in press, coming soom), [Code](https://github.com/ShishunTian/FedIQA-TCSVT2026))
+- **Shishun Tian**, Yonghong Zheng, Guanghui Yue, Weisi Lin, Patrick Le Callet, Rethinking Objective Image Quality Assessment with Federated Learning, **_IEEE Transactions on Circuits and Systems for Video Technology_**, 2026. (PDF(in press, coming soom), [Code](https://github.com/ShishunTian/FedIQA-TCSVT2026))
 
 - Zhengyu Zhang; **Shishun Tian<sup>\*</sup>**; Jianjun Xiang; Wenbin Zou; Luce Morin; Lu Zhang, Blind Light Field Image Quality Assessment Using Multiplane Texture and Multilevel Wavelet Information, **_IEEE Transactions on Broadcasting_**, 2025. ([PDF](https://ieeexplore.ieee.org/document/11231044), [Code](https://github.com/ZhengyuZhang96/MPT-MWI-BLiF))
 
