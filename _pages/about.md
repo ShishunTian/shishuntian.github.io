@@ -24,9 +24,10 @@ Dr. Shishun Tian is currently an Associate Professor at the College of Electroni
 - *2012 - 2015*, M.Sc. Changchun Institute of Optics, Fine Mechanics and Physics, Chinese Academy of Sciences, Changchun, China. 
 - *2008 - 2012*, B.Sc. Sichuan University, Chengdu, China.
 
-
 # 📝 Selected Publications 
 ## Journal:
+
+- **Shishun Tian**, Qian Xu, He Gui, Ting Su, Yan Li, and Qiong Wang, Light Field Referring Segmentation: A benchmark and An LLM-based Approach, **_IEEE Transactions on Broadcasting_**, 2026. (PDF(in press, coming soon), [Code](https://github.com/ShishunTian/LFLLM-TBC2026))
 
 - Ting Su, Lingze Huang, Wenbin Zou, Guanghui Yue, and **Shishun Tian<sup>\*</sup>**, Weakly-Correlated Knowledge Distillation for Blind Image Quality Assessment, **_IEEE Transactions on Multimedia_**, 2026. (Paper and code: coming soon...)
 
@@ -68,8 +69,6 @@ Dr. Shishun Tian is currently an Associate Professor at the College of Electroni
 
 - **Shishun Tian**, Lu Zhang, Luce Morin, Olivier Déforges, NIQSV+: A No-Reference Synthesized View Quality Assessment Metric, **_IEEE Transactions on Image Processing_**, 2018. ([PDF](https://ieeexplore.ieee.org/abstract/document/8170274), [Code](https://vaader-data.insa-rennes.fr/data/stian/ieeetom/Code_NIQSV+.zip))
 
-
-
 ## Conference:
 - **Shishun Tian**, Fangjie Hou, Guanghui Yue, Yuanhao Gong, Wenbin Zou, Ting Su, Prior-Guided Test Time Adaptation for Blind Image Quality Assessment, **_IEEE International Conference on Multimedia and Expo (ICME)_**, 2025. **Oral (Top 15%)**
 
@@ -88,7 +87,6 @@ Dr. Shishun Tian is currently an Associate Professor at the College of Electroni
 - **Shishun Tian**, Lu Zhang, Luce Morin, Olivier Déforges, SC-IQA: Shift compensation based image quality assessment for DIBR-synthesized views, **_IEEE Visual Communications and Image Processing (VCIP)_**, 2018. ([PDF](https://ieeexplore.ieee.org/abstract/document/8698654))
 
 - **Shishun Tian**, Lu Zhang, Luce Morin, Olivier Déforges, NIQSV: A no reference image quality assessment metric for 3D synthesized views, **_IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_**, 2017. ([PDF](https://ieeexplore.ieee.org/abstract/document/7952356), [Code](https://vaader-data.insa-rennes.fr/data/stian/ieeetom/Code_NIQSV+.zip))
-
 
 # 🧑‍🏫 Teaching
 
