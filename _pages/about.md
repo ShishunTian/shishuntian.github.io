@@ -27,7 +27,7 @@ Dr. Shishun Tian is currently an Associate Professor at the College of Electroni
 # 📝 Selected Publications 
 ## Journal:
 
-- **Shishun Tian**, Qian Xu, He Gui, Ting Su, Yan Li, and Qiong Wang, Light Field Referring Segmentation: A benchmark and An LLM-based Approach, **_IEEE Transactions on Broadcasting_**, 2026. (PDF(in press, coming soon), [Code](https://github.com/ShishunTian/LFLLM-TBC2026))
+- **Shishun Tian**, Qian Xu, He Gui, Ting Su, Yan Li, and Qiong Wang, Light Field Referring Segmentation: A benchmark and An LLM-based Approach, **_IEEE Transactions on Broadcasting_**, 2026. (PDF(in press, coming soon), [Dataset & Code](https://github.com/ShishunTian/LFLLM-TBC2026))
 
 - Ting Su, Lingze Huang, Wenbin Zou, Guanghui Yue, and **Shishun Tian<sup>\*</sup>**, Weakly-Correlated Knowledge Distillation for Blind Image Quality Assessment, **_IEEE Transactions on Multimedia_**, 2026. (Paper and code: coming soon...)
 
