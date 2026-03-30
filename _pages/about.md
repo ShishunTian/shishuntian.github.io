@@ -29,7 +29,7 @@ Dr. Shishun Tian is currently an Associate Professor at the College of Electroni
 
 - **Shishun Tian**, Qian Xu, He Gui, Ting Su, Yan Li, and Qiong Wang, Light Field Referring Segmentation: A benchmark and An LLM-based Approach, **_IEEE Transactions on Broadcasting_**, 2026. ([PDF](https://ieeexplore.ieee.org/document/11372620), [Dataset & Code](https://github.com/ShishunTian/LFLLM-TBC2026))
 
-- Ting Su, Lingze Huang, Wenbin Zou, Guanghui Yue, and **Shishun Tian<sup>\*</sup>**, Weakly-Correlated Knowledge Distillation for Blind Image Quality Assessment, **_IEEE Transactions on Multimedia_**, 2026. (Paper and code: coming soon...)
+- Ting Su, Lingze Huang, Wenbin Zou, Guanghui Yue, and **Shishun Tian<sup>\*</sup>**, Weakly-Correlated Knowledge Distillation for Blind Image Quality Assessment, **_IEEE Transactions on Multimedia_**, 2026. ([PDF](https://ieeexplore.ieee.org/document/11456770), [Code](https://github.com/ShishunTian/WCKD-TMM2026))
 
 - **Shishun Tian**, Yonghong Zheng, Guanghui Yue, Weisi Lin, Patrick Le Callet, Rethinking Objective Image Quality Assessment with Federated Learning, **_IEEE Transactions on Circuits and Systems for Video Technology_**, 2026. (PDF(in press, coming soon), [Code](https://github.com/ShishunTian/FedIQA-TCSVT2026))
 
