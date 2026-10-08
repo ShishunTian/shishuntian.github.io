@@ -24,6 +24,9 @@ Dr. Shishun Tian is currently an Associate Professor at the College of Electroni
 - *2012 - 2015*, M.Sc. Changchun Institute of Optics, Fine Mechanics and Physics, Chinese Academy of Sciences, Changchun, China. 
 - *2008 - 2012*, B.Sc. Sichuan University, Chengdu, China.
 
+# :sparkles: News:
+  Our work "Structure-Aware Light Field Referring Image Segmentation via Epipolar Geometric Priors" the best student paper award at ICIG2026 (CCF C)!
+
 # 📝 Selected Publications 
 ## Journal:
 
