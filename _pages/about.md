@@ -25,7 +25,7 @@ Dr. Shishun Tian is currently an Associate Professor at the College of Electroni
 - *2008 - 2012*, B.Sc. Sichuan University, Chengdu, China.
 
 # 🌟 News
-- Our work "Structure-Aware Light Field Referring Image Segmentation via Epipolar Geometric Priors" won the best student paper award at ICIG2026 (CCF C)!
+- Our work "Structure-Aware Light Field Referring Image Segmentation via Epipolar Geometric Priors" won the best student paper award at ICIG2026 (CCF C)! Congratulations to Qian Xu!
 
 # 📝 Selected Publications 
 ## Journal:
