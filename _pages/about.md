@@ -74,7 +74,7 @@ Dr. Shishun Tian is currently an Associate Professor at the College of Electroni
 - **Shishun Tian**, Lu Zhang, Luce Morin, Olivier Déforges, NIQSV+: A No-Reference Synthesized View Quality Assessment Metric, **_IEEE Transactions on Image Processing_**, 2018. ([PDF](https://ieeexplore.ieee.org/abstract/document/8170274), [Code](https://vaader-data.insa-rennes.fr/data/stian/ieeetom/Code_NIQSV+.zip))
 
 ## Conference:
-- Qian Xu , Qiong Wang, Tiantian Zeng, Ting Su, Yan Li, Huiyu Duan, **Shishun Tian<sup>\#</sup>**, and Guangtao Zhai, Structure-Aware Light Field Referring Image Segmentation via Epipolar Geometric Priors, **_International Conference on Image and Graphics_**, 2026. **Best student paper.** ([PDF](https://link.springer.com/chapter/10.1007/978-981-92-7198-6_50), [Code](coming soon))
+- Qian Xu, Qiong Wang, Tiantian Zeng, Ting Su, Yan Li, Huiyu Duan, **Shishun Tian<sup>\#</sup>**, and Guangtao Zhai, Structure-Aware Light Field Referring Image Segmentation via Epipolar Geometric Priors, **_International Conference on Image and Graphics_**, 2026. **Best student paper.** ([PDF](https://link.springer.com/chapter/10.1007/978-981-92-7198-6_50), [Code](coming soon))
 
 - **Shishun Tian**, Fangjie Hou, Guanghui Yue, Yuanhao Gong, Wenbin Zou, Ting Su, Prior-Guided Test Time Adaptation for Blind Image Quality Assessment, **_IEEE International Conference on Multimedia and Expo (ICME)_**, 2025. **Oral (Top 15%)**
 
